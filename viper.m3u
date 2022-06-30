@@ -33,7 +33,7 @@ http://192.168.2.1:4022/udp/239.49.8.56:9826
 http://192.168.2.1:4022/udp/239.49.1.15:6000
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://192.168.2.1:4022/udp/239.49.9.58:6000
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16-4k
 http://192.168.2.1:4022/udp/239.49.9.59:6000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://192.168.2.1:4022/udp/239.49.8.52:9810
@@ -175,6 +175,8 @@ http://192.168.2.1:4022/udp/239.49.8.180:6000
 http://192.168.2.1:4022/udp/239.49.8.181:6000
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
 http://192.168.2.1:4022/udp/239.49.8.182:6000
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场-4k" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场-4k
+http://192.168.2.1:4022/udp/239.49.8.106:8000
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
 http://192.168.2.1:4022/udp/239.49.1.168:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色频道
@@ -313,3 +315,12 @@ http://192.168.2.1:4022/udp/239.49.9.57:6000
 http://192.168.2.1:4022/udp/239.49.8.193:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高淳新闻
 http://192.168.2.1:4022/udp/239.49.1.142:6000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k测试",4k测试1
+http://192.168.2.1:4022/udp/239.49.8.205:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k测试",汽车频道
+http://192.168.2.1:4022/udp/239.49.8.206:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k测试",4k测试2
+http://192.168.2.1:4022/udp/239.49.8.207:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k测试",4k测试3
+http://192.168.2.1:4022/udp/239.49.8.208:6000
